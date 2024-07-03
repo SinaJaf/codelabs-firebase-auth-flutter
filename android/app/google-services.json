@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "814226413180",
+    "project_id": "auth-codelabs",
+    "storage_bucket": "auth-codelabs.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:814226413180:android:0a091620050aeeb59f9bf9",
+        "android_client_info": {
+          "package_name": "com.example.auth_cadelab"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOEAmhJNbYAQNlQisruKR9jq_pauZHNT0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:814226413180:android:4472a1b0b283e7339f9bf9",
+        "android_client_info": {
+          "package_name": "com.example.gtk_flutter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOEAmhJNbYAQNlQisruKR9jq_pauZHNT0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:814226413180:android:8791175ee8d3a1859f9bf9",
+        "android_client_info": {
+          "package_name": "com.example.step_02"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOEAmhJNbYAQNlQisruKR9jq_pauZHNT0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
