@@ -19,6 +19,7 @@ class HomePage extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
+        forceMaterialTransparency: true,
         title: const Text('Firebase Meetup'),
       ),
       body: ListView(
@@ -54,8 +55,9 @@ class HomePage extends StatelessWidget {
                   GuestBook(
                     addMessage: (message) =>
                         appState.addMessageToGuestBook(message),
+                    messages: appState.GuestBookMessages,
                   ),
-                ]
+                ],
               ],
             ),
           )
