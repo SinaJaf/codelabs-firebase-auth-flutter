@@ -19,6 +19,7 @@ class HomePage extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
+        // fixed the app bar color change on scrolling
         forceMaterialTransparency: true,
         title: const Text('Firebase Meetup'),
       ),
